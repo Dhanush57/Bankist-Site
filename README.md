@@ -1,4 +1,4 @@
-# Bankist-Site
+# Bankist-Site(Landing page)
 Bankist-Site is a simple bank based landing page which has dynamic javascript functionalities triggered based on events on the page.
 
 Live version of site:
